@@ -1,0 +1,95 @@
+lang,def,indef,n_case,t_lo,t_hi
+Adapazar,1,1,4,-0,-0
+Afrikaans,1,1,1,-0,-0
+Ancient Greek,1,0,4,-25,-23
+Arumanian,1,1,2,-0,-0
+Arvanitika,1,1,3,-0,-0
+Assamese,1,1,6,-0,-0
+Avestan,0,0,7,-28,-25
+Baluchi,0,1,3,-0,-0
+Belarusian,0,0,6,-0,-0
+Bengali,1,1,4,-0,-0
+Bihari,0,0,5,-0,-0
+Breton,1,1,1,-0,-0
+Bulgarian,1,0,1,-0,-0
+Cagliari,1,1,1,-0,-0
+Catalan,1,1,1,-0,-0
+Classical Armenian,1,0,7,-18,-15
+Cornish,1,0,1,-4,-2
+Czech,0,0,6,-0,-0
+Danish,1,1,1,-0,-0
+Digor Ossetic,0,0,8,-0,-0
+Dutch,1,1,1,-0,-0
+Eastern Armenian,1,1,5,-0,-0
+English,1,1,1,-0,-0
+Faroese,1,1,4,-0,-0
+Flemish,1,1,1,-0,-0
+French,1,1,1,-0,-0
+Frisian,1,1,1,-0,-0
+Friulian,1,1,1,-0,-0
+German,1,1,4,-0,-0
+Gothic,0,0,4,-17,-14
+Gujarati,0,0,2,-0,-0
+Hindi,0,0,2,-0,-0
+Hittite,0,0,8,-36,-33
+Icelandic,1,0,4,-0,-0
+Irish,1,0,2,-0,-0
+Italian,1,1,1,-0,-0
+Kashmiri,0,0,7,-0,-0
+Kurdish,1,1,1,-0,-0
+Ladin,1,1,1,-0,-0
+Lahnda,0,0,3,-0,-0
+Latin,0,0,5,-21,-18
+Latvian,0,0,6,-0,-0
+Lithuanian,0,0,6,-0,-0
+Lower Sorbian,0,0,6,-0,-0
+Luxembourgish,1,1,2,-0,-0
+Macedonian,1,0,1,-0,-0
+Marathi,0,0,7,-0,-0
+Marwari,0,0,2,-0,-0
+Modern Greek,1,1,3,-0,-0
+Nepali,0,0,1,-0,-0
+Norwegian,1,1,1,-0,-0
+Nuorese,1,1,1,-0,-0
+Old Church Slavic,0,0,6,-11,-9
+Old English,0,0,4,-12,-9
+Old High German,0,0,4,-12.5,-9.5
+Old Irish,1,0,4,-13,-9
+Old Prussian,0,0,6,-8,-3
+Old West Norse,1,0,4,-13,-7
+Oriya,1,1,3,-0,-0
+Panjabi,0,0,2,-0,-0
+Pashto,0,0,2,-0,-0
+Persian,0,1,1,-0,-0
+Polish,0,0,6,-0,-0
+Portuguese,1,1,1,-0,-0
+Provencal,1,1,1,-0,-0
+Romani,1,0,7,-0,-0
+Romanian,1,1,2,-0,-0
+Romansh,1,1,1,-0,-0
+Russian,0,0,6,-0,-0
+Sariqoli,0,0,2,-0,-0
+Scots Gaelic,1,0,3,-0,-0
+Serbian,0,0,6,-0,-0
+Shughni,0,0,2,-0,-0
+Sindhi,0,0,2,-0,-0
+Singhalese,1,1,5,-0,-0
+Slovak,0,0,6,-0,-0
+Slovenian,0,0,6,-0,-0
+Sogdian,1,0,5,-14,-12
+Spanish,1,1,1,-0,-0
+Swedish,1,1,1,-0,-0
+Swiss German,1,1,2,-0,-0
+Tajik,0,1,1,-0,-0
+Tocharian A,0,0,3,-16,-13
+Tocharian B,0,0,3,-16,-13
+Tosk,1,1,5,-0,-0
+Ukrainian,0,0,6,-0,-0
+Upper Sorbian,0,0,6,-0,-0
+Urdu,0,0,2,-0,-0
+Vedic Sanskrit,0,0,7,-35,-30
+Wakhi,0,1,2,-0,-0
+Walloon,1,1,1,-0,-0
+Waziri,0,0,2,-0,-0
+Welsh,1,0,1,-0,-0
+Zazaki,0,1,2,-0,-0

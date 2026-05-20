@@ -1,0 +1,19 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# macOS
+.DS_Store
+
+# renv
+renv/library/
+
+# CmdStan / compiled artifacts
+src/
+*.o
+*.hpp.gch
+*.exe
+
+# Output
+output/
